@@ -1,0 +1,12 @@
+type Todo @model {
+  id: ID!
+  cat_transporte: Float!
+  cat_energia: Float!
+  cat_alimentacion: Float!
+  cat_ahorro: Float!
+  total_hogar: Float!
+  cat_empleado: Float!
+  total_empresa: Float!
+  aspectos_positivos: String!
+  aspectos_negativos: String!
+}
