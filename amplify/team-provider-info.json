@@ -10,6 +10,11 @@
       "StackName": "amplify-uque-prod-225525",
       "StackId": "arn:aws:cloudformation:us-east-1:451106152921:stack/amplify-uque-prod-225525/9749e560-102c-11eb-ae01-0ad52a854211",
       "AmplifyAppId": "d1aicdzkqgp5pr"
+    },
+    "categories": {
+      "auth": {
+        "uque98105b05": {}
+      }
     }
   }
 }
